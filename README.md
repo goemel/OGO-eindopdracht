@@ -1,4 +1,7 @@
+##Eindopdracht object georiënnteerd
+Voor de eindopdracht hebben we een aantal dingen uit moet voeren. Deel 1 van de opdracht staat in het mapje deel 1. Deel 2 van de opdracht staat in deel 2, maar de uitleg wat ik heb veranderd staat hieronder.
 
+Uitleg hoe je het programma op start staat als laatste genoteerd.
 
 # Wat is er mis met jabberpoint?
 
@@ -28,3 +31,5 @@ Als hij dat niet doet, heb ik de volgende extensions gebruikt:
 6. Maven voor Java
 7. Project Manager for Java
 8. Test Runner for Java
+
+Als je vervolgens het programma wilt starten ga je naar het bestand deel 2/app/src/jabberpoint/jabberpoint.java en druk je op f5. Als het goed is moet het programma dan starten
